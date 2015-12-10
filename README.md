@@ -2,8 +2,6 @@
 
 A buzzer system was developed using Raspberrypi and simple stateless button switches. 
 
-![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
-
 ###### Languages used
 Python 
 
