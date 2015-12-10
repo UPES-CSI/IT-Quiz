@@ -1,9 +1,9 @@
 # IT-Quiz Buzzer
 
 A buzzer system was developed using Raspberrypi and simple stateless button switches here is a clipping attached to see the 
-working demo of the application.
+working demo of the application. 
 
-Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
 
 ###### Languages used
 Python 
@@ -18,3 +18,6 @@ Python
 2. Plastic Balls 
 3. Thermocol sheet 
 4. Glue 
+
+###### How to run the code
+run the file ``` start-quiz.py ``` with sudo permissions
