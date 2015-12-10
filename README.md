@@ -1,7 +1,6 @@
 # IT-Quiz Buzzer
 
-A buzzer system was developed using Raspberrypi and simple stateless button switches here is a clipping attached to see the 
-working demo of the application. 
+A buzzer system was developed using Raspberrypi and simple stateless button switches. 
 
 ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
 
